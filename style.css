@@ -79,3 +79,21 @@ padding: 5px 5px;
 .clear-float{
 clear:both;
 }
+.custom-logo{
+
+    padding:0px 30px;
+}
+
+.header-nav-bar .navbar .collapse .navbar-collapse ul li a{
+    color:#ddd;
+}
+
+.header-nav-bar .navbar a:hover{
+    background-color: #c4302b;
+}
+
+
+
+
+
+
