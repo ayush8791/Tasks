@@ -1,0 +1,81 @@
+
+*{
+padding:0px;
+margin:0px;
+}
+.body-container{
+align-items:center;
+margin:2px;
+
+
+}
+.topbar{
+background-color:#ecf0f1;
+padding:0px 40px;
+//margin:2px;
+max-height:100%;
+font-family: "Ubuntu", sans-serif;
+}
+.topbar a{
+
+    text-decoration: none;
+
+}
+
+.left-topbar{
+display:inline-blocks;
+float:left;
+padding:7.5px 9px;
+
+}
+
+.date-left-topbar{
+display:inline-blocks;
+//margin: 5px;
+padding:0px 5px;
+font-size: 14px;
+font-weight:700;
+color:#39424a;
+}
+
+.button-left-topbar{
+display:inline-blocks;
+//margin: 5px;
+padding:0px 5px;
+font-weight:700;
+font-size: 12px;
+
+}
+.topbar-anchor-link{
+color:#39424a;
+
+}
+
+.right-topbar{    
+display:inline-blocks;                                                                                                                                                                                                                                                                                                                             
+float:right;
+font-size:16px;
+//vertical-align:top;
+//margin: 5px;
+padding: 0px 5px;
+
+}
+
+.im-twitter{
+color:#33ccff;
+font-size:18px;
+padding: 5px 5px;
+}
+.im-youtube{
+color:#c4302b;
+padding: 5px 5px;
+font-size:18px;
+}
+.im-facebook{
+font-size:18px;
+padding: 5px 5px;
+}
+
+.clear-float{
+clear:both;
+}
