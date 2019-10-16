@@ -1,0 +1,5 @@
+C:\Users\Ayush_Garg\source\repos\CalciulatorApp\MathOperations\bin\Debug\MathOperations.dll
+C:\Users\Ayush_Garg\source\repos\CalciulatorApp\MathOperations\bin\Debug\MathOperations.pdb
+C:\Users\Ayush_Garg\source\repos\CalciulatorApp\MathOperations\obj\Debug\MathOperations.csprojAssemblyReference.cache
+C:\Users\Ayush_Garg\source\repos\CalciulatorApp\MathOperations\obj\Debug\MathOperations.dll
+C:\Users\Ayush_Garg\source\repos\CalciulatorApp\MathOperations\obj\Debug\MathOperations.pdb
