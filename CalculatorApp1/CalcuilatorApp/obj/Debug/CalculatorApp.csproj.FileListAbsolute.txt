@@ -1,0 +1,9 @@
+C:\Users\Ayush_Garg\source\repos\CalciulatorApp\CalciulatorApp\obj\Debug\CalculatorApp.csprojAssemblyReference.cache
+C:\Users\Ayush_Garg\source\repos\CalciulatorApp\CalciulatorApp\bin\Debug\CalciulatorApp.exe.config
+C:\Users\Ayush_Garg\source\repos\CalciulatorApp\CalciulatorApp\bin\Debug\CalciulatorApp.exe
+C:\Users\Ayush_Garg\source\repos\CalciulatorApp\CalciulatorApp\bin\Debug\CalciulatorApp.pdb
+C:\Users\Ayush_Garg\source\repos\CalciulatorApp\CalciulatorApp\bin\Debug\MathOperations.dll
+C:\Users\Ayush_Garg\source\repos\CalciulatorApp\CalciulatorApp\bin\Debug\MathOperations.pdb
+C:\Users\Ayush_Garg\source\repos\CalciulatorApp\CalciulatorApp\obj\Debug\CalculatorApp.csproj.CopyComplete
+C:\Users\Ayush_Garg\source\repos\CalciulatorApp\CalciulatorApp\obj\Debug\CalciulatorApp.exe
+C:\Users\Ayush_Garg\source\repos\CalciulatorApp\CalciulatorApp\obj\Debug\CalciulatorApp.pdb
