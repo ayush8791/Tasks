@@ -1,0 +1,7 @@
+C:\Users\Ayush_Garg\source\repos\OOPSconcepts\OOPSconcepts\bin\Debug\OOPSconcepts.exe.config
+C:\Users\Ayush_Garg\source\repos\OOPSconcepts\OOPSconcepts\bin\Debug\OOPSconcepts.exe
+C:\Users\Ayush_Garg\source\repos\OOPSconcepts\OOPSconcepts\bin\Debug\OOPSconcepts.pdb
+C:\Users\Ayush_Garg\source\repos\OOPSconcepts\OOPSconcepts\obj\Debug\OOPSconcepts.exe
+C:\Users\Ayush_Garg\source\repos\OOPSconcepts\OOPSconcepts\obj\Debug\OOPSconcepts.pdb
+C:\Users\Ayush_Garg\source\repos\OOPSconcepts\OOPSconcepts\bin\Debug\OOPSconcepts.xml
+C:\Users\Ayush_Garg\source\repos\OOPSconcepts\OOPSconcepts\obj\Debug\OOPSconcepts.csprojAssemblyReference.cache
