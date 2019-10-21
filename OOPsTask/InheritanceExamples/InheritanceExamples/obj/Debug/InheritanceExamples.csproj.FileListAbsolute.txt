@@ -1,0 +1,6 @@
+C:\Users\Ayush\source\repos\InheritanceExamples\InheritanceExamples\obj\Debug\InheritanceExamples.csprojAssemblyReference.cache
+C:\Users\Ayush\source\repos\InheritanceExamples\InheritanceExamples\bin\Debug\InheritanceExamples.exe.config
+C:\Users\Ayush\source\repos\InheritanceExamples\InheritanceExamples\bin\Debug\InheritanceExamples.exe
+C:\Users\Ayush\source\repos\InheritanceExamples\InheritanceExamples\bin\Debug\InheritanceExamples.pdb
+C:\Users\Ayush\source\repos\InheritanceExamples\InheritanceExamples\obj\Debug\InheritanceExamples.exe
+C:\Users\Ayush\source\repos\InheritanceExamples\InheritanceExamples\obj\Debug\InheritanceExamples.pdb
